@@ -6,4 +6,4 @@ if enter_num < 0:
   print("Please enter only integers.")
   num = input("Enter a number: ") 
 else:
-  print("The weight of the object is calculated to be (in Newton):", newton)
+  print("The weight of the object is calculated to be ")
